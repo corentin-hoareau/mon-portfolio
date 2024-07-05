@@ -20,7 +20,7 @@ Fonctionnalités phares :
 - Calendriers privés et gestion des demandes de follow/invitations collaborateur ;
 - Serveurs backend hébergés sur le cloud Azure.
 
-[Documentation technique](/project_pdfs/macaco_doc.pdf)
+[Documentation technique](/mon-portfolio/project_pdfs/macaco_doc.pdf)
 
 ## Juin 2023: iSee, un site web de vidéo à la demande
 
@@ -47,5 +47,6 @@ Fonctionnalités phares :
 - Dashboard d'administration avec statistiques d'utilisation ;
 - CRUD commentaires.
 
-[Documentation technique](/project_pdfs/isee_doc.pdf)
-[Manuel utilisateur](/project_pdfs/isee_manual.pdf)
+[Documentation technique](/mon-portfolio/project_pdfs/isee_doc.pdf)
+
+[Manuel utilisateur](/mon-portfolio/project_pdfs/isee_manual.pdf)
