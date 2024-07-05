@@ -1,4 +1,4 @@
-baseURL = 'https://corentin-hoareau.github.io/'
+baseURL = 'https://corentin-hoareau.github.io/mon-portfolio/'
 languageCode = 'fr-fr'
 title = 'Mon Portfolio'
 theme = 'typo'
