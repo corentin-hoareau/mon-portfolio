@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://corentin-hoareau.github.io/'
+languageCode = 'fr-fr'
 title = 'Mon Portfolio'
 theme = 'typo'
