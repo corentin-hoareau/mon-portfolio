@@ -1,6 +1,6 @@
 Cette page contient les différents projets et écrits réalisés lors de ma formation à Supinfo International University.
 
-[Mes écrits](/mon-portfolio/writings)
+[Mes écrits](/mon-portfolio/my_writings)
 
 ## Juin 2024: Macaco, application de partage de musique
 
