@@ -2,3 +2,29 @@ baseURL = 'https://corentin-hoareau.github.io/mon-portfolio/'
 languageCode = 'fr-fr'
 title = 'Mon Portfolio'
 theme = 'typo'
+
+
+# Appearance settings
+colorPalette = 'default'
+hideHeader = false
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 20
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Bonjour'
+homeIntroContent = """
+Je suis Corentin Hoareau, étudiant à Supinfo, développeur web fullstack, et motion designer à mes heures perdues.
+
+Ce site me sert de portfolio dans lequel j'y recueil mes différents projets notables ainsi que mes écrits.
+"""

@@ -1,4 +1,10 @@
-## Mes écrits
+---
+title: "Mes écrits"
+date: "2024-07-06"
+autonumber: true
+showTags: false
+hideBackToTop: true
+---
 
 [Retour à la page principale](/mon-portfolio/)
 
