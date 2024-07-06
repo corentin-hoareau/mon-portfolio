@@ -1,9 +1,8 @@
 ---
 title: "Mes projets"
-date: "2024-07-06"
+date: "2024-07-05"
 autonumber: true
 showTags: false
-hideBackToTop: true
 ---
 
 Cette page contient les différents projets et écrits réalisés lors de ma formation à Supinfo International University.

@@ -3,23 +3,14 @@ languageCode = 'fr-fr'
 title = 'Mon Portfolio'
 theme = 'typo'
 
+[params]
+# Meta description
+description = "Ce site me sert de portfolio, vous pourrez y trouver mes différents projets et écrits."
 
 # Appearance settings
+theme = 'light'
 colorPalette = 'default'
-hideHeader = false
-
-# Breadcrumbs
-breadcrumbs = true
-
-# Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
-
-# Lists parameters
-paginationSize = 20
-listSummaries = true
-listDateFormat = '2 Jan 2006'
-
+hideHeader = true
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Bonjour'
@@ -28,3 +19,14 @@ Je suis Corentin Hoareau, étudiant à Supinfo, développeur web fullstack, et m
 
 Ce site me sert de portfolio dans lequel j'y recueil mes différents projets notables ainsi que mes écrits.
 """
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true

@@ -3,10 +3,7 @@ title: "Mes écrits"
 date: "2024-07-06"
 autonumber: true
 showTags: false
-hideBackToTop: true
 ---
-
-[Retour à la page principale](/mon-portfolio/)
 
 Making an ease script with Fusion : Une trilogie montrant comment rédiger des scripts sur le logiciel de montage vidéo Davinci Resolve, ainsi qu'une présentation détaillée du fonctionnement d'un des scripts que j'ai rédigé.
 
