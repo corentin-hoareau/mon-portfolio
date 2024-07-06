@@ -1,5 +1,7 @@
 Cette page contient les différents projets et écrits réalisés lors de ma formation à Supinfo International University.
 
+[Mes écrits](/mon-portfolio/writings)
+
 ## Mai 2024: Macaco, application de partage de musique
 
 Réalisé lors de ma quatrième année d'études pour un sujet libre de fin d'année, ce projet a pour objectif la création d'une application mobile permettant de partager une musique par jour sous forme de calendrier.
